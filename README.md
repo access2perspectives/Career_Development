@@ -2,7 +2,7 @@
 Tips &amp; Tricks for digital Science Career Development
 
 
-Career Development with Digital Tools (in Berlin)
+# Career Development with Digital Tools 
 
 ## WHY		
 find a job
