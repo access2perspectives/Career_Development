@@ -1,6 +1,13 @@
 # Career_Development
 Tips &amp; Tricks for digital Science Career Development
 
+- Intercultural Training
+- Europe & Africa relations
+- Group dynamics
+
+
+# Resources
+- http://phdcareerstories.com/
 
 # Career Development with Digital Tools 
 
